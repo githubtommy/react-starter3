@@ -1,4 +1,4 @@
-# Create-React-App Plus: Redux, React Router 4 & Redux Thunk
+# Create-React-App Start Kit, With Extras and Examples
 
 #### Redux | Redux Thunk | React Router4 | Firebase | ReactBootstrap | MaterialsUI
 
